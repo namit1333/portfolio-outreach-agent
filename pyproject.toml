@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "portfolio-outreach-agent"
+version = "0.1.0"
+description = "Multi-agent pipeline that turns portfolio support requests into evidence-grounded prospect lists and ready-to-send outreach drafts"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "Proprietary" }
+authors = [{ name = "namit1333" }]
+dependencies = []
+
+[project.scripts]
+outreach = "outreach_agent.cli:main"
+
+[tool.setuptools]
+packages = ["outreach_agent", "outreach_agent.providers"]

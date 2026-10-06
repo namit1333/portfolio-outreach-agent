@@ -1,0 +1,34 @@
+{
+  "kind": "talent",
+  "request": "They need a specific type of systems engineer: canvass the internet for companies that would have had an engineer like that and surface their profiles with a personalized message I can send",
+  "target_description": "They need a specific type of systems engineer: canvass the internet for companies that would have had an engineer like that and surface their profiles with a personalized message I can send",
+  "criteria": [
+    "Has hands-on experience matching systems engineer or the role described",
+    "Career history is publicly verifiable",
+    "Plausibly open to a new opportunity or industry conversation"
+  ],
+  "nice_to_have": [
+    "Growing team",
+    "Recent project wins or hiring activity"
+  ],
+  "geography": "",
+  "exclusions": [
+    "Aggregators and lead-gen sites",
+    "Businesses with no verifiable presence"
+  ],
+  "queries": [
+    "systems engineer engineer",
+    "companies with systems engineer engineering teams",
+    "systems engineer systems engineer profile experience",
+    "automation integrators hiring systems engineer",
+    "systems engineer commissioning deployment experience"
+  ],
+  "message_goal": "Get a reply and start a conversation about a role or opportunity",
+  "sender": {
+    "name": "Namit",
+    "role": "Platform team",
+    "organization": "",
+    "voice": "concise, warm, peer-to-peer"
+  },
+  "target_count": 20
+}

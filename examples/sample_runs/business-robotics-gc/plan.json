@@ -1,0 +1,34 @@
+{
+  "kind": "business",
+  "request": "One of my companies is doing robotics deployments in the supply chain and they want to meet more general contractor and construction businesses that they could chat with",
+  "target_description": "One of my companies is doing robotics deployments in the supply chain and they want to meet more general contractor and construction businesses that they could chat with",
+  "criteria": [
+    "Is an operating business related to doing robotics deployments",
+    "Works with the kind of customer or project described in the request",
+    "Has a verifiable own website or published contact channel"
+  ],
+  "nice_to_have": [
+    "Growing team",
+    "Recent project wins or hiring activity"
+  ],
+  "geography": "",
+  "exclusions": [
+    "Aggregators and lead-gen sites",
+    "Businesses with no verifiable presence"
+  ],
+  "queries": [
+    "doing robotics deployments companies",
+    "doing robotics deployments contractors",
+    "doing robotics deployments trade association member directory",
+    "top doing robotics deployments firms",
+    "doing robotics deployments vendors supply chain projects"
+  ],
+  "message_goal": "Get a reply and book a short intro call about a potential fit",
+  "sender": {
+    "name": "Namit",
+    "role": "Platform team",
+    "organization": "",
+    "voice": "concise, warm, peer-to-peer"
+  },
+  "target_count": 20
+}

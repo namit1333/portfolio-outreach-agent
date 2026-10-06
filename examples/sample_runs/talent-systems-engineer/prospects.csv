@@ -1,0 +1,25 @@
+﻿rank,name,role,organization,location,profile_url,email,fit_score,fit_reason,criteria_matched,source_urls,subject,message_body,send_via,draft_file,warnings
+1,Tomas Beckett,Controls & Systems Engineer — warehouse automation,Meridian Automation,"Sacramento, CA",https://profiles.example/tomas-beckett,t.beckett@meridianautomation.example,60.0,Leads on-site commissioning for warehouse automation deployments; systems integration and PLC/SCADA background.,Has hands-on experience matching systems engineer or the role described,https://profiles.example/tomas-beckett,"Quick question, Tomas?","Hi Tomas,
+
+Your background stood out: leads on-site commissioning for warehouse automation deployments; systems integration and PLC/SCADA background.
+
+I'm reaching out to get a reply and start a conversation about a role or opportunity. Would you be open to a quick chat about what's next for you?
+
+Best,
+Namit",email,drafts/01-tomas-beckett.eml,
+2,Alex Okafor,Staff Systems Engineer — robotics deployment,Vector Logistics Systems,"Remote, USA",https://profiles.example/alex-okafor,,48.0,Owns deployment engineering for robotics fleets at customer sites; strong travel-based commissioning record.,Has hands-on experience matching systems engineer or the role described,https://profiles.example/alex-okafor,"Quick question, Alex?","Hi Alex,
+
+Your background stood out: owns deployment engineering for robotics fleets at customer sites; strong travel-based commissioning record.
+
+I'm reaching out to get a reply and start a conversation about a role or opportunity. Would you be open to a quick chat about what's next for you?
+
+Best,
+Namit",linkedin,drafts/02-alex-okafor.txt,
+3,Priya Raghavan,Senior Systems Engineer — PLC & motion control,Cordell Robotics,"Bay Area, CA",https://profiles.example/priya-raghavan,,48.0,8 years commissioning conveyor and AMR systems; PLC programming (Allen-Bradley) and industrial safety systems.,Has hands-on experience matching systems engineer or the role described,https://profiles.example/priya-raghavan,"Quick question, Priya?","Hi Priya,
+
+Your background stood out: 8 years commissioning conveyor and AMR systems; PLC programming (Allen-Bradley) and industrial safety systems.
+
+I'm reaching out to get a reply and start a conversation about a role or opportunity. Would you be open to a quick chat about what's next for you?
+
+Best,
+Namit",linkedin,drafts/03-priya-raghavan.txt,

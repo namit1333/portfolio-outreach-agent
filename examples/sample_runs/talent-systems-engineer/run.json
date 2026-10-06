@@ -1,0 +1,379 @@
+{
+  "request": "They need a specific type of systems engineer: canvass the internet for companies that would have had an engineer like that and surface their profiles with a personalized message I can send",
+  "plan": {
+    "kind": "talent",
+    "request": "They need a specific type of systems engineer: canvass the internet for companies that would have had an engineer like that and surface their profiles with a personalized message I can send",
+    "target_description": "They need a specific type of systems engineer: canvass the internet for companies that would have had an engineer like that and surface their profiles with a personalized message I can send",
+    "criteria": [
+      "Has hands-on experience matching systems engineer or the role described",
+      "Career history is publicly verifiable",
+      "Plausibly open to a new opportunity or industry conversation"
+    ],
+    "nice_to_have": [
+      "Growing team",
+      "Recent project wins or hiring activity"
+    ],
+    "geography": "",
+    "exclusions": [
+      "Aggregators and lead-gen sites",
+      "Businesses with no verifiable presence"
+    ],
+    "queries": [
+      "systems engineer engineer",
+      "companies with systems engineer engineering teams",
+      "systems engineer systems engineer profile experience",
+      "automation integrators hiring systems engineer",
+      "systems engineer commissioning deployment experience"
+    ],
+    "message_goal": "Get a reply and start a conversation about a role or opportunity",
+    "sender": {
+      "name": "Namit",
+      "role": "Platform team",
+      "organization": "",
+      "voice": "concise, warm, peer-to-peer"
+    },
+    "target_count": 20
+  },
+  "candidates": [
+    {
+      "kind": "talent",
+      "name": "Tomas Beckett",
+      "headline": "Controls & Systems Engineer — warehouse automation",
+      "organization": "Meridian Automation",
+      "website": "",
+      "profile_url": "https://profiles.example/tomas-beckett",
+      "location": "Sacramento, CA",
+      "email": "t.beckett@meridianautomation.example",
+      "phone": "",
+      "contact_person": "",
+      "contact_role": "",
+      "fit_reason": "Leads on-site commissioning for warehouse automation deployments; systems integration and PLC/SCADA background.",
+      "criteria_matched": [
+        "Has hands-on experience matching systems engineer or the role described"
+      ],
+      "evidence": [
+        {
+          "text": "Tomas Beckett - Controls & Systems Engineer at Meridian Automation. Leads on-site commissioning for warehouse automation deployments; PLC/SCADA and systems integration. Contact: t.beckett@meridianautomation.example. Sacramento, CA.",
+          "url": "https://profiles.example/tomas-beckett",
+          "title": "Tomas Beckett - Profile"
+        }
+      ],
+      "source_urls": [
+        "https://profiles.example/tomas-beckett"
+      ],
+      "score": 60.0,
+      "score_breakdown": {
+        "criteria_coverage": 20.0,
+        "source_quality": 20.0,
+        "source_label": "own_site",
+        "contactability": 17.0,
+        "web_presence": 3.0
+      },
+      "draft": {
+        "subject": "Quick question, Tomas?",
+        "body": "Hi Tomas,\n\nYour background stood out: leads on-site commissioning for warehouse automation deployments; systems integration and PLC/SCADA background.\n\nI'm reaching out to get a reply and start a conversation about a role or opportunity. Would you be open to a quick chat about what's next for you?\n\nBest,\nNamit",
+        "send_via": "email",
+        "personalization_notes": "Mock draft: replace with real research before sending."
+      },
+      "warnings": [],
+      "scout_query": "companies with systems engineer engineering teams"
+    },
+    {
+      "kind": "talent",
+      "name": "Alex Okafor",
+      "headline": "Staff Systems Engineer — robotics deployment",
+      "organization": "Vector Logistics Systems",
+      "website": "",
+      "profile_url": "https://profiles.example/alex-okafor",
+      "location": "Remote, USA",
+      "email": "",
+      "phone": "",
+      "contact_person": "",
+      "contact_role": "",
+      "fit_reason": "Owns deployment engineering for robotics fleets at customer sites; strong travel-based commissioning record.",
+      "criteria_matched": [
+        "Has hands-on experience matching systems engineer or the role described"
+      ],
+      "evidence": [
+        {
+          "text": "Alex Okafor - Staff Systems Engineer at Vector Logistics Systems. Owns deployment engineering for robotics fleets at customer sites, including commissioning, acceptance testing, and field support. Remote, USA.",
+          "url": "https://profiles.example/alex-okafor",
+          "title": "Alex Okafor - Profile"
+        }
+      ],
+      "source_urls": [
+        "https://profiles.example/alex-okafor"
+      ],
+      "score": 48.0,
+      "score_breakdown": {
+        "criteria_coverage": 20.0,
+        "source_quality": 20.0,
+        "source_label": "own_site",
+        "contactability": 5.0,
+        "web_presence": 3.0
+      },
+      "draft": {
+        "subject": "Quick question, Alex?",
+        "body": "Hi Alex,\n\nYour background stood out: owns deployment engineering for robotics fleets at customer sites; strong travel-based commissioning record.\n\nI'm reaching out to get a reply and start a conversation about a role or opportunity. Would you be open to a quick chat about what's next for you?\n\nBest,\nNamit",
+        "send_via": "linkedin",
+        "personalization_notes": "Mock draft: replace with real research before sending."
+      },
+      "warnings": [],
+      "scout_query": "companies with systems engineer engineering teams"
+    },
+    {
+      "kind": "talent",
+      "name": "Priya Raghavan",
+      "headline": "Senior Systems Engineer — PLC & motion control",
+      "organization": "Cordell Robotics",
+      "website": "",
+      "profile_url": "https://profiles.example/priya-raghavan",
+      "location": "Bay Area, CA",
+      "email": "",
+      "phone": "",
+      "contact_person": "",
+      "contact_role": "",
+      "fit_reason": "8 years commissioning conveyor and AMR systems; PLC programming (Allen-Bradley) and industrial safety systems.",
+      "criteria_matched": [
+        "Has hands-on experience matching systems engineer or the role described"
+      ],
+      "evidence": [
+        {
+          "text": "Priya Raghavan - Senior Systems Engineer at Cordell Robotics. 8 years commissioning conveyor and AMR systems; Allen-Bradley PLC programming, motion control, and industrial safety systems. Bay Area, CA.",
+          "url": "https://profiles.example/priya-raghavan",
+          "title": "Priya Raghavan - Profile"
+        }
+      ],
+      "source_urls": [
+        "https://profiles.example/priya-raghavan"
+      ],
+      "score": 48.0,
+      "score_breakdown": {
+        "criteria_coverage": 20.0,
+        "source_quality": 20.0,
+        "source_label": "own_site",
+        "contactability": 5.0,
+        "web_presence": 3.0
+      },
+      "draft": {
+        "subject": "Quick question, Priya?",
+        "body": "Hi Priya,\n\nYour background stood out: 8 years commissioning conveyor and AMR systems; PLC programming (Allen-Bradley) and industrial safety systems.\n\nI'm reaching out to get a reply and start a conversation about a role or opportunity. Would you be open to a quick chat about what's next for you?\n\nBest,\nNamit",
+        "send_via": "linkedin",
+        "personalization_notes": "Mock draft: replace with real research before sending."
+      },
+      "warnings": [],
+      "scout_query": "companies with systems engineer engineering teams"
+    }
+  ],
+  "events": [
+    {
+      "stage": "plan",
+      "agent": "planner[1/1]",
+      "status": "started",
+      "detail": "",
+      "error": "",
+      "started_at": "2026-10-06T20:46:55+00:00",
+      "finished_at": "2026-10-06T20:46:55+00:00",
+      "duration_s": 0.0
+    },
+    {
+      "stage": "plan",
+      "agent": "planner[1/1]",
+      "status": "ok",
+      "detail": "talent · 5 queries · 3 criteria",
+      "error": "",
+      "started_at": "",
+      "finished_at": "2026-10-06T20:46:55+00:00",
+      "duration_s": 0.0
+    },
+    {
+      "stage": "scout",
+      "agent": "scout[1/5]",
+      "status": "started",
+      "detail": "systems engineer engineer",
+      "error": "",
+      "started_at": "2026-10-06T20:46:55+00:00",
+      "finished_at": "2026-10-06T20:46:55+00:00",
+      "duration_s": 0.0
+    },
+    {
+      "stage": "scout",
+      "agent": "scout[2/5]",
+      "status": "started",
+      "detail": "companies with systems engineer engineering teams",
+      "error": "",
+      "started_at": "2026-10-06T20:46:55+00:00",
+      "finished_at": "2026-10-06T20:46:55+00:00",
+      "duration_s": 0.0
+    },
+    {
+      "stage": "scout",
+      "agent": "scout[3/5]",
+      "status": "started",
+      "detail": "systems engineer systems engineer profile experience",
+      "error": "",
+      "started_at": "2026-10-06T20:46:55+00:00",
+      "finished_at": "2026-10-06T20:46:55+00:00",
+      "duration_s": 0.0
+    },
+    {
+      "stage": "scout",
+      "agent": "scout[4/5]",
+      "status": "started",
+      "detail": "automation integrators hiring systems engineer",
+      "error": "",
+      "started_at": "2026-10-06T20:46:55+00:00",
+      "finished_at": "2026-10-06T20:46:55+00:00",
+      "duration_s": 0.0
+    },
+    {
+      "stage": "scout",
+      "agent": "scout[5/5]",
+      "status": "started",
+      "detail": "systems engineer commissioning deployment experience",
+      "error": "",
+      "started_at": "2026-10-06T20:46:55+00:00",
+      "finished_at": "2026-10-06T20:46:55+00:00",
+      "duration_s": 0.0
+    },
+    {
+      "stage": "scout",
+      "agent": "scout[2/5]",
+      "status": "ok",
+      "detail": "3 candidates for “companies with systems engineer engineering teams”",
+      "error": "",
+      "started_at": "",
+      "finished_at": "2026-10-06T20:46:55+00:00",
+      "duration_s": 0.0
+    },
+    {
+      "stage": "scout",
+      "agent": "scout[3/5]",
+      "status": "ok",
+      "detail": "3 candidates for “systems engineer systems engineer profile experience”",
+      "error": "",
+      "started_at": "",
+      "finished_at": "2026-10-06T20:46:55+00:00",
+      "duration_s": 0.0
+    },
+    {
+      "stage": "scout",
+      "agent": "scout[1/5]",
+      "status": "ok",
+      "detail": "3 candidates for “systems engineer engineer”",
+      "error": "",
+      "started_at": "",
+      "finished_at": "2026-10-06T20:46:55+00:00",
+      "duration_s": 0.0
+    },
+    {
+      "stage": "scout",
+      "agent": "scout[4/5]",
+      "status": "ok",
+      "detail": "3 candidates for “automation integrators hiring systems engineer”",
+      "error": "",
+      "started_at": "",
+      "finished_at": "2026-10-06T20:46:55+00:00",
+      "duration_s": 0.0
+    },
+    {
+      "stage": "scout",
+      "agent": "scout[5/5]",
+      "status": "ok",
+      "detail": "3 candidates for “systems engineer commissioning deployment experience”",
+      "error": "",
+      "started_at": "",
+      "finished_at": "2026-10-06T20:46:55+00:00",
+      "duration_s": 0.0
+    },
+    {
+      "stage": "curate",
+      "agent": "curator[1/1]",
+      "status": "started",
+      "detail": "15 raw candidates",
+      "error": "",
+      "started_at": "2026-10-06T20:46:55+00:00",
+      "finished_at": "2026-10-06T20:46:55+00:00",
+      "duration_s": 0.0
+    },
+    {
+      "stage": "curate",
+      "agent": "curator[1/1]",
+      "status": "ok",
+      "detail": "3 unique · 3 kept (score ≥ 25.0)",
+      "error": "",
+      "started_at": "",
+      "finished_at": "2026-10-06T20:46:55+00:00",
+      "duration_s": 0.0
+    },
+    {
+      "stage": "write",
+      "agent": "writer[1/3]",
+      "status": "started",
+      "detail": "Tomas Beckett",
+      "error": "",
+      "started_at": "2026-10-06T20:46:55+00:00",
+      "finished_at": "2026-10-06T20:46:55+00:00",
+      "duration_s": 0.0
+    },
+    {
+      "stage": "write",
+      "agent": "writer[2/3]",
+      "status": "started",
+      "detail": "Alex Okafor",
+      "error": "",
+      "started_at": "2026-10-06T20:46:55+00:00",
+      "finished_at": "2026-10-06T20:46:55+00:00",
+      "duration_s": 0.0
+    },
+    {
+      "stage": "write",
+      "agent": "writer[3/3]",
+      "status": "started",
+      "detail": "Priya Raghavan",
+      "error": "",
+      "started_at": "2026-10-06T20:46:55+00:00",
+      "finished_at": "2026-10-06T20:46:55+00:00",
+      "duration_s": 0.0
+    },
+    {
+      "stage": "write",
+      "agent": "writer[2/3]",
+      "status": "ok",
+      "detail": "draft for Alex Okafor (linkedin)",
+      "error": "",
+      "started_at": "",
+      "finished_at": "2026-10-06T20:46:55+00:00",
+      "duration_s": 0.0
+    },
+    {
+      "stage": "write",
+      "agent": "writer[1/3]",
+      "status": "ok",
+      "detail": "draft for Tomas Beckett (email)",
+      "error": "",
+      "started_at": "",
+      "finished_at": "2026-10-06T20:46:55+00:00",
+      "duration_s": 0.0
+    },
+    {
+      "stage": "write",
+      "agent": "writer[3/3]",
+      "status": "ok",
+      "detail": "draft for Priya Raghavan (linkedin)",
+      "error": "",
+      "started_at": "",
+      "finished_at": "2026-10-06T20:46:55+00:00",
+      "duration_s": 0.0
+    }
+  ],
+  "warnings": [],
+  "providers": {
+    "llm": "mock",
+    "model": "mock",
+    "research_mode": "mock",
+    "search": null
+  },
+  "created_at": "2026-10-06T20:46:55+00:00",
+  "out_dir": "examples\\sample_runs\\talent-systems-engineer"
+}

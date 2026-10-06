@@ -1,0 +1,454 @@
+{
+  "request": "One of my companies is doing robotics deployments in the supply chain and they want to meet more general contractor and construction businesses that they could chat with",
+  "plan": {
+    "kind": "business",
+    "request": "One of my companies is doing robotics deployments in the supply chain and they want to meet more general contractor and construction businesses that they could chat with",
+    "target_description": "One of my companies is doing robotics deployments in the supply chain and they want to meet more general contractor and construction businesses that they could chat with",
+    "criteria": [
+      "Is an operating business related to doing robotics deployments",
+      "Works with the kind of customer or project described in the request",
+      "Has a verifiable own website or published contact channel"
+    ],
+    "nice_to_have": [
+      "Growing team",
+      "Recent project wins or hiring activity"
+    ],
+    "geography": "",
+    "exclusions": [
+      "Aggregators and lead-gen sites",
+      "Businesses with no verifiable presence"
+    ],
+    "queries": [
+      "doing robotics deployments companies",
+      "doing robotics deployments contractors",
+      "doing robotics deployments trade association member directory",
+      "top doing robotics deployments firms",
+      "doing robotics deployments vendors supply chain projects"
+    ],
+    "message_goal": "Get a reply and book a short intro call about a potential fit",
+    "sender": {
+      "name": "Namit",
+      "role": "Platform team",
+      "organization": "",
+      "voice": "concise, warm, peer-to-peer"
+    },
+    "target_count": 20
+  },
+  "candidates": [
+    {
+      "kind": "business",
+      "name": "Ridgeline Construction Group",
+      "headline": "General contractor — commercial & industrial builds",
+      "organization": "",
+      "website": "https://ridgelinebuild.example/",
+      "profile_url": "",
+      "location": "Concord, CA",
+      "email": "estimating@ridgelinebuild.example",
+      "phone": "(925) 555-0142",
+      "contact_person": "Dana Whitfield",
+      "contact_role": "Director of Operations",
+      "fit_reason": "Mid-size GC doing warehouse and distribution-center builds; already lists material-handling fit-outs in project portfolio.",
+      "criteria_matched": [
+        "Is an operating business related to doing robotics deployments",
+        "Works with the kind of customer or project described in the request"
+      ],
+      "evidence": [
+        {
+          "text": "Ridgeline Construction Group - general contractor for commercial and industrial projects, including warehouse and distribution center build-outs. Project inquiries: estimating@ridgelinebuild.example, phone (925) 555-0142.",
+          "url": "https://ridgelinebuild.example/",
+          "title": "Ridgeline Construction Group - About"
+        },
+        {
+          "text": "Dana Whitfield, Director of Operations, oversees preconstruction and vendor partnerships.",
+          "url": "https://ridgelinebuild.example/team",
+          "title": "Our Team"
+        }
+      ],
+      "source_urls": [
+        "https://ridgelinebuild.example/",
+        "https://ridgelinebuild.example/team"
+      ],
+      "score": 85.0,
+      "score_breakdown": {
+        "criteria_coverage": 40.0,
+        "source_quality": 20.0,
+        "source_label": "own_site",
+        "contactability": 20.0,
+        "web_presence": 5.0
+      },
+      "draft": {
+        "subject": "Exploring a fit with Ridgeline Construction Group",
+        "body": "Hi Dana,\n\nI came across Ridgeline Construction Group — mid-size GC doing warehouse and distribution-center builds; already lists material-handling fit-outs in project portfolio.\n\nI'm reaching out to get a reply and book a short intro call about a potential fit. Would you be open to a 20-minute call in the next couple of weeks?\n\nBest,\nNamit",
+        "send_via": "email",
+        "personalization_notes": "Mock draft: replace with real research before sending."
+      },
+      "warnings": [],
+      "scout_query": "doing robotics deployments contractors"
+    },
+    {
+      "kind": "business",
+      "name": "Bay Crest Builders Inc",
+      "headline": "Design-build contractor — industrial facilities",
+      "organization": "",
+      "website": "https://baycrestbuilders.example/",
+      "profile_url": "",
+      "location": "Hayward, CA",
+      "email": "",
+      "phone": "(510) 555-0177",
+      "contact_person": "Miguel Alvarez",
+      "contact_role": "Preconstruction Manager",
+      "fit_reason": "Design-build firm focused on industrial facilities; publicly describes self-perform concrete work and automation-ready remodels.",
+      "criteria_matched": [
+        "Works with the kind of customer or project described in the request",
+        "Has a verifiable own website or published contact channel"
+      ],
+      "evidence": [
+        {
+          "text": "Bay Crest Builders Inc - design-build contractor specializing in industrial facilities and automation-ready remodels. Call (510) 555-0177.",
+          "url": "https://baycrestbuilders.example/",
+          "title": "Bay Crest Builders"
+        },
+        {
+          "text": "Miguel Alvarez leads preconstruction and is the listed contact for new project inquiries.",
+          "url": "https://baycrestbuilders.example/contact",
+          "title": "Contact"
+        }
+      ],
+      "source_urls": [
+        "https://baycrestbuilders.example/",
+        "https://baycrestbuilders.example/contact"
+      ],
+      "score": 73.0,
+      "score_breakdown": {
+        "criteria_coverage": 40.0,
+        "source_quality": 20.0,
+        "source_label": "own_site",
+        "contactability": 8.0,
+        "web_presence": 5.0
+      },
+      "draft": {
+        "subject": "Exploring a fit with Bay Crest Builders Inc",
+        "body": "Hi Miguel,\n\nI came across Bay Crest Builders Inc — design-build firm focused on industrial facilities; publicly describes self-perform concrete work and automation-ready remodels.\n\nI'm reaching out to get a reply and book a short intro call about a potential fit. Would you be open to a 20-minute call in the next couple of weeks?\n\nBest,\nNamit",
+        "send_via": "contact_form",
+        "personalization_notes": "Mock draft: replace with real research before sending."
+      },
+      "warnings": [],
+      "scout_query": "doing robotics deployments contractors"
+    },
+    {
+      "kind": "business",
+      "name": "Harbor & Steel Construction Co.",
+      "headline": "Structural steel & plant construction",
+      "organization": "",
+      "website": "https://harborgsteel.example/",
+      "profile_url": "",
+      "location": "Oakland, CA",
+      "email": "bids@harborgsteel.example",
+      "phone": "(510) 555-0190",
+      "contact_person": "",
+      "contact_role": "",
+      "fit_reason": "Plant and port construction specialist; bid portal shows recurring work at logistics facilities.",
+      "criteria_matched": [],
+      "evidence": [
+        {
+          "text": "Harbor & Steel Construction Co. - structural steel and plant construction for ports and logistics facilities. Bid invitations: bids@harborgsteel.example, (510) 555-0190.",
+          "url": "https://harborgsteel.example/bids",
+          "title": "Bid Opportunities"
+        }
+      ],
+      "source_urls": [
+        "https://harborgsteel.example/bids"
+      ],
+      "score": 45.0,
+      "score_breakdown": {
+        "criteria_coverage": 0.0,
+        "source_quality": 20.0,
+        "source_label": "own_site",
+        "contactability": 20.0,
+        "web_presence": 5.0
+      },
+      "draft": {
+        "subject": "Exploring a fit with Harbor & Steel Construction Co.",
+        "body": "Hi there,\n\nI came across Harbor & Steel Construction Co. — plant and port construction specialist; bid portal shows recurring work at logistics facilities.\n\nI'm reaching out to get a reply and book a short intro call about a potential fit. Would you be open to a 20-minute call in the next couple of weeks?\n\nBest,\nNamit",
+        "send_via": "email",
+        "personalization_notes": "Mock draft: replace with real research before sending."
+      },
+      "warnings": [],
+      "scout_query": "doing robotics deployments contractors"
+    },
+    {
+      "kind": "business",
+      "name": "Northgate Electric Systems",
+      "headline": "Electrical contractor — controls & panels",
+      "organization": "",
+      "website": "",
+      "profile_url": "",
+      "location": "Oakland, CA",
+      "email": "office@northgateelectric.example",
+      "phone": "(510) 555-0121",
+      "contact_person": "",
+      "contact_role": "",
+      "fit_reason": "Controls-focused electrical contractor serving warehouse automation installs; only third-party listings found so far.",
+      "criteria_matched": [],
+      "evidence": [
+        {
+          "text": "Northgate Electric Systems - electrical contractor for industrial controls and panels. office@northgateelectric.example, phone (510) 555-0121. Listed under electrical contractors in Oakland.",
+          "url": "https://www.yelp.com/biz/northgate-electric-systems-oakland",
+          "title": "Northgate Electric Systems - Yelp"
+        }
+      ],
+      "source_urls": [
+        "https://www.yelp.com/biz/northgate-electric-systems-oakland"
+      ],
+      "score": 28.0,
+      "score_breakdown": {
+        "criteria_coverage": 0.0,
+        "source_quality": 8.0,
+        "source_label": "directory",
+        "contactability": 20.0,
+        "web_presence": 0.0
+      },
+      "draft": {
+        "subject": "Exploring a fit with Northgate Electric Systems",
+        "body": "Hi there,\n\nI came across Northgate Electric Systems — controls-focused electrical contractor serving warehouse automation installs; only third-party listings found so far.\n\nI'm reaching out to get a reply and book a short intro call about a potential fit. Would you be open to a 20-minute call in the next couple of weeks?\n\nBest,\nNamit",
+        "send_via": "email",
+        "personalization_notes": "Mock draft: replace with real research before sending."
+      },
+      "warnings": [
+        "website blanked: https://www.yelp.com/biz/northgate-electric-systems-oakland is a directory page, not the entity's own site"
+      ],
+      "scout_query": "doing robotics deployments contractors"
+    }
+  ],
+  "events": [
+    {
+      "stage": "plan",
+      "agent": "planner[1/1]",
+      "status": "started",
+      "detail": "",
+      "error": "",
+      "started_at": "2026-10-06T20:46:54+00:00",
+      "finished_at": "2026-10-06T20:46:54+00:00",
+      "duration_s": 0.0
+    },
+    {
+      "stage": "plan",
+      "agent": "planner[1/1]",
+      "status": "ok",
+      "detail": "business · 5 queries · 3 criteria",
+      "error": "",
+      "started_at": "",
+      "finished_at": "2026-10-06T20:46:54+00:00",
+      "duration_s": 0.0
+    },
+    {
+      "stage": "scout",
+      "agent": "scout[1/5]",
+      "status": "started",
+      "detail": "doing robotics deployments companies",
+      "error": "",
+      "started_at": "2026-10-06T20:46:54+00:00",
+      "finished_at": "2026-10-06T20:46:54+00:00",
+      "duration_s": 0.0
+    },
+    {
+      "stage": "scout",
+      "agent": "scout[2/5]",
+      "status": "started",
+      "detail": "doing robotics deployments contractors",
+      "error": "",
+      "started_at": "2026-10-06T20:46:54+00:00",
+      "finished_at": "2026-10-06T20:46:54+00:00",
+      "duration_s": 0.0
+    },
+    {
+      "stage": "scout",
+      "agent": "scout[3/5]",
+      "status": "started",
+      "detail": "doing robotics deployments trade association member directory",
+      "error": "",
+      "started_at": "2026-10-06T20:46:54+00:00",
+      "finished_at": "2026-10-06T20:46:54+00:00",
+      "duration_s": 0.0
+    },
+    {
+      "stage": "scout",
+      "agent": "scout[4/5]",
+      "status": "started",
+      "detail": "top doing robotics deployments firms",
+      "error": "",
+      "started_at": "2026-10-06T20:46:54+00:00",
+      "finished_at": "2026-10-06T20:46:54+00:00",
+      "duration_s": 0.0
+    },
+    {
+      "stage": "scout",
+      "agent": "scout[5/5]",
+      "status": "started",
+      "detail": "doing robotics deployments vendors supply chain projects",
+      "error": "",
+      "started_at": "2026-10-06T20:46:54+00:00",
+      "finished_at": "2026-10-06T20:46:54+00:00",
+      "duration_s": 0.0
+    },
+    {
+      "stage": "scout",
+      "agent": "scout[2/5]",
+      "status": "ok",
+      "detail": "4 candidates for “doing robotics deployments contractors”",
+      "error": "",
+      "started_at": "",
+      "finished_at": "2026-10-06T20:46:54+00:00",
+      "duration_s": 0.0
+    },
+    {
+      "stage": "scout",
+      "agent": "scout[3/5]",
+      "status": "ok",
+      "detail": "4 candidates for “doing robotics deployments trade association member directory”",
+      "error": "",
+      "started_at": "",
+      "finished_at": "2026-10-06T20:46:54+00:00",
+      "duration_s": 0.0
+    },
+    {
+      "stage": "scout",
+      "agent": "scout[1/5]",
+      "status": "ok",
+      "detail": "4 candidates for “doing robotics deployments companies”",
+      "error": "",
+      "started_at": "",
+      "finished_at": "2026-10-06T20:46:54+00:00",
+      "duration_s": 0.0
+    },
+    {
+      "stage": "scout",
+      "agent": "scout[4/5]",
+      "status": "ok",
+      "detail": "4 candidates for “top doing robotics deployments firms”",
+      "error": "",
+      "started_at": "",
+      "finished_at": "2026-10-06T20:46:54+00:00",
+      "duration_s": 0.0
+    },
+    {
+      "stage": "scout",
+      "agent": "scout[5/5]",
+      "status": "ok",
+      "detail": "4 candidates for “doing robotics deployments vendors supply chain projects”",
+      "error": "",
+      "started_at": "",
+      "finished_at": "2026-10-06T20:46:54+00:00",
+      "duration_s": 0.0
+    },
+    {
+      "stage": "curate",
+      "agent": "curator[1/1]",
+      "status": "started",
+      "detail": "20 raw candidates",
+      "error": "",
+      "started_at": "2026-10-06T20:46:54+00:00",
+      "finished_at": "2026-10-06T20:46:54+00:00",
+      "duration_s": 0.0
+    },
+    {
+      "stage": "curate",
+      "agent": "curator[1/1]",
+      "status": "ok",
+      "detail": "4 unique · 4 kept (score ≥ 25.0)",
+      "error": "",
+      "started_at": "",
+      "finished_at": "2026-10-06T20:46:54+00:00",
+      "duration_s": 0.0
+    },
+    {
+      "stage": "write",
+      "agent": "writer[1/4]",
+      "status": "started",
+      "detail": "Ridgeline Construction Group",
+      "error": "",
+      "started_at": "2026-10-06T20:46:54+00:00",
+      "finished_at": "2026-10-06T20:46:54+00:00",
+      "duration_s": 0.0
+    },
+    {
+      "stage": "write",
+      "agent": "writer[2/4]",
+      "status": "started",
+      "detail": "Bay Crest Builders Inc",
+      "error": "",
+      "started_at": "2026-10-06T20:46:54+00:00",
+      "finished_at": "2026-10-06T20:46:54+00:00",
+      "duration_s": 0.0
+    },
+    {
+      "stage": "write",
+      "agent": "writer[3/4]",
+      "status": "started",
+      "detail": "Harbor & Steel Construction Co.",
+      "error": "",
+      "started_at": "2026-10-06T20:46:54+00:00",
+      "finished_at": "2026-10-06T20:46:54+00:00",
+      "duration_s": 0.0
+    },
+    {
+      "stage": "write",
+      "agent": "writer[4/4]",
+      "status": "started",
+      "detail": "Northgate Electric Systems",
+      "error": "",
+      "started_at": "2026-10-06T20:46:54+00:00",
+      "finished_at": "2026-10-06T20:46:54+00:00",
+      "duration_s": 0.0
+    },
+    {
+      "stage": "write",
+      "agent": "writer[1/4]",
+      "status": "ok",
+      "detail": "draft for Ridgeline Construction Group (email)",
+      "error": "",
+      "started_at": "",
+      "finished_at": "2026-10-06T20:46:54+00:00",
+      "duration_s": 0.0
+    },
+    {
+      "stage": "write",
+      "agent": "writer[3/4]",
+      "status": "ok",
+      "detail": "draft for Harbor & Steel Construction Co. (email)",
+      "error": "",
+      "started_at": "",
+      "finished_at": "2026-10-06T20:46:54+00:00",
+      "duration_s": 0.0
+    },
+    {
+      "stage": "write",
+      "agent": "writer[2/4]",
+      "status": "ok",
+      "detail": "draft for Bay Crest Builders Inc (contact_form)",
+      "error": "",
+      "started_at": "",
+      "finished_at": "2026-10-06T20:46:54+00:00",
+      "duration_s": 0.0
+    },
+    {
+      "stage": "write",
+      "agent": "writer[4/4]",
+      "status": "ok",
+      "detail": "draft for Northgate Electric Systems (email)",
+      "error": "",
+      "started_at": "",
+      "finished_at": "2026-10-06T20:46:54+00:00",
+      "duration_s": 0.0
+    }
+  ],
+  "warnings": [],
+  "providers": {
+    "llm": "mock",
+    "model": "mock",
+    "research_mode": "mock",
+    "search": null
+  },
+  "created_at": "2026-10-06T20:46:54+00:00",
+  "out_dir": "examples\\sample_runs\\business-robotics-gc"
+}
